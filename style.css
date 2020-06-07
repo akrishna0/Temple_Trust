@@ -1,0 +1,10 @@
+.navbar-nav a{
+    font-family: Arial;
+    font-size: 22px;
+    /* text-transform: uppercase; */
+    font-weight: bold;
+}
+#navbarText{
+    float:right;
+}
+
